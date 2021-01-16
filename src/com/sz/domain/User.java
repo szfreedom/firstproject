@@ -34,7 +34,5 @@ public class User {
         return classroomId;
     }
 
-    public void setClassroomId(String classroomId) {
-        this.classroomId = classroomId;
-    }
+
 }
